@@ -1,3 +1,5 @@
 # AI Training Week 1
 
-This project contains Python and Git workflow exercises.
+
+This project contains Python and Git workflow exercises.>>>>>>> feature/readme-update
+
